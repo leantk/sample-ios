@@ -4,7 +4,7 @@ echo "In post script waiting"
 echo "START: $(date)"
 
 
-sleep 45m
+sleep 2700m
 
 echo "END: $(date)"
 echo "Done sleeping"
